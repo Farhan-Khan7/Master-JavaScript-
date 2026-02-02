@@ -1,62 +1,33 @@
-# 🚀 JavaScript Learning Journey – Day 1
+<div align="center">
 
-📅 **Date:** 1 February  
-📘 **Topic:** JavaScript Fundamentals  
-🎯 **Goal:** Build a strong foundation in JavaScript for Web Development
+# 📦 JavaScript – Chapter 1  
+## Variables & Declarations
 
----
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Status-Completed-2ECC71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Level-Beginner-3498DB?style=for-the-badge"/>
+</p>
 
+✨ *Part of my JavaScript – Learn Everything Journey* ✨
 
-## 🧠 Topics Covered
-
-### 🔹 Introduction
-- What to expect from the course
-- Brief **history of JavaScript**
-- Why **JavaScript was introduced**
-- Role of JavaScript in web browsers
-
-### 🔹 JavaScript & Browser
-- How to **add JavaScript in HTML**
-- How browsers **combine and execute multiple JS files**
-- Understanding **Live Server Extension**
-
-
-### 🔹 Variables
-- What are variables
-- **3 ways to create variables**
-  - `var`
-  - `let`
-  - `const`
-
-#### ⚔️ var vs let
-- Difference in **scope**
-- Difference in **re-declaration & hoisting**
-
-### 🔹 Functions
-- What are functions
-- Why functions are important
-- Basic function syntax
-
-### 🔹 Data Types in JavaScript
-- `Number`
-- `BigInt`
-- `Symbol`
-- `Object`
+</div>
 
 ---
 
-## 🧪 Practice Focus
-- Writing basic JavaScript code
-- Understanding execution flow
-- Learning how JavaScript behaves inside the browser
+## 🧠 What are Variables?
 
----
+Variables are **containers used to store data** in JavaScript.  
+They allow us to **store, reuse, and update values** throughout our program.
 
-## 🛠 Tools Used
-- **VS Code**
-- **Live Server Extension**
-- **Browser Console**
+📦 Think of a variable as a **box with a label**:
+- Label → Variable name  
+- Box → Memory  
+- Item inside → Value  
 
----
+JavaScript provides **three keywords** to create variables:
 
-
+```js
+var
+let
+const
