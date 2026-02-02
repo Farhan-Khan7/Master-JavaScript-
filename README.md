@@ -1,33 +1,59 @@
 <div align="center">
 
-# 📦 JavaScript – Chapter 1  
-## Variables & Declarations
+# 👋 Hi, I'm Farhan Khan
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Status-Completed-2ECC71?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Level-Beginner-3498DB?style=for-the-badge"/>
-</p>
+A focused **JavaScript learner** building strong fundamentals in modern web development.  
+Currently documenting my learning journey chapter-by-chapter with clear concepts, examples, and practice.
 
-✨ *Part of my JavaScript – Learn Everything Journey* ✨
+I believe in **clarity over speed** and **consistency over motivation**.
 
 </div>
 
 ---
 
-## 🧠 What are Variables?
+## 📬 Connect With Me
 
-Variables are **containers used to store data** in JavaScript.  
-They allow us to **store, reuse, and update values** throughout our program.
+<p align="center">
+  <a href="https://x.com/FarhanK43883" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@FarhanK43883-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/farhan-khan-b99737254/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Farhan%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:fk2487748Z@gamil.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-2ECC71?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-📦 Think of a variable as a **box with a label**:
-- Label → Variable name  
-- Box → Memory  
-- Item inside → Value  
+---
 
-JavaScript provides **three keywords** to create variables:
+## 📊 Learning Progress Tracker
 
-```js
-var
-let
-const
+### JavaScript – Learn Everything Series
+
+#### ✅ Chapter 1: Variables & Declarations
+- ✅ What are Variables
+- ✅ var vs let vs const
+- ✅ Scope (Block vs Function)
+- ✅ Hoisting & Temporal Dead Zone (TDZ)
+- ✅ Hands-on Practice & Examples
+
+#### ⏳ Chapter 2: Data Types & Type System
+- ⏳ Primitive Data Types
+- ⏳ Reference Data Types
+- ⏳ typeof Operator
+- ⏳ Type Coercion
+- ⏳ Truthy & Falsy Values
+- ⏳ Practice Questions
+
+#### 🔒 Upcoming Chapters
+- 🔒 Chapter 3: Operators  
+- 🔒 Chapter 4: Control Flow  
+- 🔒 Chapter 5: Loops  
+- 🔒 Chapter 6: Functions  
+- 🔒 Chapter 7: Arrays  
+- 🔒 Chapter 8: Objects  
+
+---
+
+> This repository reflects my learning progress and understanding as I move forward step by step.
