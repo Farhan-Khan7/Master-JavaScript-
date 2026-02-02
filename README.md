@@ -1,1 +1,72 @@
-# Master-JavaScript-
+# 🚀 JavaScript Learning Journey – Day 1
+
+📅 **Date:** 1 February  
+📘 **Topic:** JavaScript Fundamentals  
+🎯 **Goal:** Build a strong foundation in JavaScript for Web Development
+
+---
+
+## 📌 Course Walkthrough
+This repository documents my **Day 1 JavaScript learning**, covering core concepts that form the backbone of modern web development.
+
+---
+
+## 🧠 Topics Covered
+
+### 🔹 Introduction
+- What to expect from the course
+- Brief **history of JavaScript**
+- Why **JavaScript was introduced**
+- Role of JavaScript in web browsers
+
+### 🔹 JavaScript & Browser
+- How to **add JavaScript in HTML**
+- How browsers **combine and execute multiple JS files**
+- Understanding **Live Server Extension**
+- Audience Questions:
+  - What is **AJAX**
+  - What were **Floppy Disks**
+
+### 🔹 Variables
+- What are variables
+- **3 ways to create variables**
+  - `var`
+  - `let`
+  - `const`
+
+#### ⚔️ var vs let
+- Difference in **scope**
+- Difference in **re-declaration & hoisting**
+
+### 🔹 Functions
+- What are functions
+- Why functions are important
+- Basic function syntax
+
+### 🔹 Data Types in JavaScript
+- `Number`
+- `BigInt`
+- `Symbol`
+- `Object`
+
+---
+
+## 🧪 Practice Focus
+- Writing basic JavaScript code
+- Understanding execution flow
+- Learning how JavaScript behaves inside the browser
+
+---
+
+## 🛠 Tools Used
+- **VS Code**
+- **Live Server Extension**
+- **Browser Console**
+
+---
+
+## 📈 Learning Status
+```diff
++ JavaScript Basics Started
++ Core Concepts Understood
+- Advanced Topics (Coming Soon)
