@@ -15,19 +15,16 @@
 
 ---
 
-## 🧠 What are Variables?
+## 📦 Chapter 1: Variables & Declarations ✅
 
-Variables are **containers used to store data** in JavaScript.  
-They allow us to **store, reuse, and update values** throughout our program.
+This chapter builds the **foundation of JavaScript**.
 
-📦 Think of a variable as a **box with a label**:
-- Label → Variable name  
-- Box → Memory  
-- Item inside → Value  
+**What I learned:**
+- What variables are and how JavaScript stores data in memory
+- Difference between `var`, `let`, and `const`
+- Block scope vs function scope
+- Hoisting and the Temporal Dead Zone (TDZ)
+- Why `const` is preferred in modern JavaScript
 
-JavaScript provides **three keywords** to create variables:
-
-```js
-var
-let
-const
+**Outcome:**  
+I can now safely declare variables, understand scope-related bugs, and write cleaner code.
