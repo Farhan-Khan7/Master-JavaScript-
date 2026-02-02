@@ -153,27 +153,94 @@ I can represent complex data like users, products, and configurations using obje
 ### JavaScript – Learn Everything Series
 
 #### ✅ Chapter 1: Variables & Declarations
-- ✅ What are Variables
+- ✅ Variables & Memory
 - ✅ var vs let vs const
-- ✅ Scope (Block vs Function)
-- ✅ Hoisting & TDZ
-- ✅ Practice & Examples
-
-#### ⏳ Chapter 2: Data Types & Type System
-- ⏳ Primitive & Reference Types
-- ⏳ typeof Operator
-- ⏳ Type Coercion
-- ⏳ Truthy & Falsy
-- ⏳ Practice Questions
-
-#### 🔒 Upcoming
-- 🔒 Chapter 3: Operators  
-- 🔒 Chapter 4: Control Flow  
-- 🔒 Chapter 5: Loops  
-- 🔒 Chapter 6: Functions  
-- 🔒 Chapter 7: Arrays  
-- 🔒 Chapter 8: Objects  
+- ✅ Block Scope vs Function Scope
+- ✅ Hoisting & Temporal Dead Zone (TDZ)
+- ✅ Hands-on Practice & Examples
 
 ---
 
-> This repository reflects my consistent effort to understand JavaScript fundamentals deeply before moving to advanced topics.
+#### ⏳ Chapter 2: Data Types & Type System
+- ⏳ Primitive Data Types
+- ⏳ Reference Data Types
+- ⏳ typeof Operator & Edge Cases
+- ⏳ Type Coercion
+- ⏳ Truthy & Falsy Values
+- ⏳ Practice Questions
+
+---
+
+#### 🔒 Chapter 3: Operators
+- 🔒 Arithmetic Operators
+- 🔒 Assignment Operators
+- 🔒 Comparison Operators (== vs ===)
+- 🔒 Logical Operators (&&, ||, !)
+- 🔒 Unary Operators & Type Conversion
+- 🔒 Ternary Operator
+- 🔒 Practice Problems
+
+---
+
+#### 🔒 Chapter 4: Control Flow
+- 🔒 if, else if, else Statements
+- 🔒 switch-case
+- 🔒 Execution Flow & Order
+- 🔒 Early Return Pattern
+- 🔒 Truthy/Falsy Conditions
+- 🔒 Practice Scenarios
+
+---
+
+#### 🔒 Chapter 5: Loops
+- 🔒 for Loop
+- 🔒 while & do-while Loops
+- 🔒 break & continue
+- 🔒 for-of (Arrays & Strings)
+- 🔒 for-in (Objects)
+- 🔒 forEach Method
+- 🔒 Loop-based Practice Problems
+
+---
+
+#### 🔒 Chapter 6: Functions
+- 🔒 Function Declarations & Expressions
+- 🔒 Parameters vs Arguments
+- 🔒 Return Values & Execution Flow
+- 🔒 Arrow Functions
+- 🔒 Default, Rest & Spread Parameters
+- 🔒 Higher-Order Functions
+- 🔒 Closures & Lexical Scope
+- 🔒 IIFE & Hoisting Differences
+- 🔒 Function-based Practice Problems
+
+---
+
+#### 🔒 Chapter 7: Arrays
+- 🔒 Creating & Accessing Arrays
+- 🔒 Mutating Methods (push, pop, splice, etc.)
+- 🔒 Non-mutating Methods (slice, map, filter)
+- 🔒 Iteration Methods (map, filter, reduce, forEach)
+- 🔒 Searching Methods (find, some, every)
+- 🔒 Array Destructuring
+- 🔒 Spread Operator & Copying Arrays
+- 🔒 Sorting Arrays Correctly
+- 🔒 Array Practice Problems
+
+---
+
+#### 🔒 Chapter 8: Objects
+- 🔒 Object Creation & Key-Value Structure
+- 🔒 Dot vs Bracket Notation
+- 🔒 Nested Objects & Deep Access
+- 🔒 Object Destructuring
+- 🔒 Looping Through Objects
+- 🔒 Shallow Copy vs Deep Copy
+- 🔒 Spread Operator & Object.assign
+- 🔒 Optional Chaining
+- 🔒 Computed Properties
+- 🔒 Object Practice Problems
+
+---
+
+📌 *This tracker is updated as I progress through each chapter step by step.*
