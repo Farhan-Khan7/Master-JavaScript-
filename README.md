@@ -23,9 +23,7 @@ This repository documents my **Day 1 JavaScript learning**, covering core concep
 - How to **add JavaScript in HTML**
 - How browsers **combine and execute multiple JS files**
 - Understanding **Live Server Extension**
-- Audience Questions:
-  - What is **AJAX**
-  - What were **Floppy Disks**
+
 
 ### 🔹 Variables
 - What are variables
@@ -65,8 +63,4 @@ This repository documents my **Day 1 JavaScript learning**, covering core concep
 
 ---
 
-## 📈 Learning Status
-```diff
-+ JavaScript Basics Started
-+ Core Concepts Understood
-- Advanced Topics (Coming Soon)
+
