@@ -6,10 +6,6 @@
 
 ---
 
-## 📌 Course Walkthrough
-This repository documents my **Day 1 JavaScript learning**, covering core concepts that form the backbone of modern web development.
-
----
 
 ## 🧠 Topics Covered
 
