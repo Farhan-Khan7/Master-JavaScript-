@@ -7,6 +7,17 @@
 // console.log(`division ${a/b}`)
 
 
-let x = 5;
-x += 3;
-console.log(x)
+// let x = 5;
+// x += 3;
+// console.log(x)
+
+
+// let count = 5;
+// console.log("Before = " , count)
+// count++
+// console.log("After ",count)
+
+// console.log(5 == '5')
+// console.log(5 === '5')
+
+
