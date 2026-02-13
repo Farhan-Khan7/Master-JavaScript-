@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    flex-direction: column;
+}
+#box{
+    margin-top: 150px;
+    border: 2px solid palevioletred;
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    /* background: linear-gradient(pink , palevioletred); */
+
+}
+button{
+    /* margin-top: 150px; */
+    border: 2px solid palevioletred;
+    border-radius: 10px;
+    padding: 10px 30px;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(pink , palevioletred);
+    cursor: pointer;
+    transition: .2s;
+}
+button:active{
+    transition: .2s;
+    scale: 0.95;
+}
