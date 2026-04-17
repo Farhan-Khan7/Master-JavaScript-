@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.box{
+
+    margin: 50px 120px;
+    padding: 30px;
+    height: 150px;
+    width: 250px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.changecolor {
+  padding: 15px 28px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+
+  /* Light gradient background */
+  background: linear-gradient(135deg, #a8edea, #fed6e3);
+
+  color: #333;
+  font-weight: 600;
+
+  /* Smooth effect */
+  transition: all 0.3s ease;
+}
+
+/* Hover effect */
+.changecolor:hover {
+  background: linear-gradient(135deg, #89f7fe, #fbc2eb);
+  transform: scale(1.05);
+}
