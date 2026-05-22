@@ -1,19 +1,6 @@
 let prompt = require("prompt-sync")()
 let number = parseInt(prompt("Enter a number: "))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 function ifPerfectSquare(n){
     let root = Math.sqrt(n)
 
@@ -23,9 +10,5 @@ function ifPerfectSquare(n){
         return "No"
     }
 }
-
-
-
-
 
 console.log(ifPerfectSquare(number))
