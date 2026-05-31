@@ -17,7 +17,6 @@ function RandomNumberGenerat() {
 
 }
 
-
 let result = (RandomNumberGenerat())
 console.log(result)
 
