@@ -12,3 +12,4 @@ function ifPerfectSquare(n){
 }
 
 console.log(ifPerfectSquare(number))
+
